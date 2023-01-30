@@ -1,0 +1,30 @@
+
+
+.row1{
+
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+    background: 200px;
+    margin: 200px;
+    
+     
+    
+}    
+
+
+.bxs-phone{
+    font-size: 34px;
+    color: #6a00ff;
+    margin-left: 160px
+    
+}
+.bxs-phone:hover{
+    
+    color: yellowgreen;
+ 
+
+}
+.navbar-toggler{
+    background: #6a00ff;
+}
